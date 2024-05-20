@@ -1,5 +1,5 @@
 # Relational Database Course Projects
-This repo houses all the projects part of the [Relational Database course](https://www.freecodecamp.org/learn/relational-database) on FreeCodeCamp. All projects must pass defined user tests.
+This repo houses all the projects part of the [Relational Database course](https://www.freecodecamp.org/learn/relational-database) on freeCodeCamp. All projects must pass defined user tests.
 
 ## Project 1: Celestial Bodies Database
  This project required building a database of celestial bodies using PostgreSQL within a bash terminal of a virtual Linux machine. The Project1 folder includes the final database dump.
