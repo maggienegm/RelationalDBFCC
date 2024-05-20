@@ -18,6 +18,8 @@ This project required using bash and PostgreSQL to create and query data about p
 
 First, the required database and its tables were created by running PostgreSQL commands in a bash terminal. An ERD representation of the database schema is below:
 
+![World Cup Database](https://github.com/maggienegm/RelationalDBFCC/assets/8771586/a7fa17f6-8985-42a2-8070-1e4dd4da891c)
+
 Things to note about the database schema:
 - The `worldcup` database has two tables: `teams` and `games`
 - The `games` table has a one-to-many relationship with the `teams` table
