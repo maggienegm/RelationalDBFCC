@@ -31,7 +31,7 @@ This project required building an interactive Bash program that uses PostgreSQL 
 
 First, the required `salon` database and its tables were created by running PostgreSQL commands in a bash terminal. An ERD representation of the database schema is below:
 
-TODO: add db schema img here
+![Salon Appointment Schedular](https://github.com/maggienegm/RelationalDBFCC/assets/8771586/92c645ab-bf66-4efa-b6de-7d6af5235100)
 
 Things to note about the database schema:
 - The `salon` database has three tables: `customers`, `services`, and `appointments`
