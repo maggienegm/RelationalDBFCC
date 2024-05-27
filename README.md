@@ -37,4 +37,4 @@ Things to note about the database schema:
 - The `salon` database has three tables: `customers`, `services`, and `appointments`
 - Both the `customers` and `services` tables have a one-to-many relationship with the `appointments` table
 
-After the `salon` database and its tables were created, an interactive salon appointment schedular app was built using Bash and PostgreSQL in `salon.sh` and then run against defined user tests. (`examples.txt` was provided to show what passing output would look like when compared against defined tests.)
+After the `salon` database and its tables were created, an interactive salon appointment schedular app was built using Bash and PostgreSQL in `salon.sh` and then run against defined user tests. Lastly, a final database dump was generated and stored in `salon.sql`. (`examples.txt` was provided to show what passing output would look like when compared against defined tests.)
