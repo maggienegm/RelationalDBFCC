@@ -44,7 +44,7 @@ This project first required fixing an existing database and it's tables based on
 
 An ERD representation of the database schema is below:
 
-TODO: insert schema here
+![Periodic Table Database](https://github.com/maggienegm/RelationalDBFCC/assets/8771586/fd99abb8-ac89-4db0-b41f-45edc606c8c7)
 
 Things to note about the database schema:
 - The database is called `periodic_table` and has three tables: `elements`, `properties`, and `types`
