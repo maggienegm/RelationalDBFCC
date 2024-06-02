@@ -60,7 +60,7 @@ This project required building an interactive number guessing game that generate
 
 First, a database and its tables were created to store user and game information by running PostgreSQL commands in a bash terminal. An ERD representation of the database schema is below:
 
-TODO: add db schema img
+![Number Guessing Game Database](https://github.com/maggienegm/RelationalDBFCC/assets/8771586/cf4390b1-ff4f-40ab-971b-b573db3cba47)
 
 Things to note about the database schema:
 - The database is called `number_guess` and has two tables: `users`, and `games`
